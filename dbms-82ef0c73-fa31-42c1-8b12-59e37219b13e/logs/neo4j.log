@@ -1,0 +1,350 @@
+﻿2021-01-27 22:33:21.308+0000 WARN  You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 8, OpenJDK(TM) 8 or IBM J9.
+2021-01-27 22:33:21.336+0000 INFO  ======== Neo4j 3.5.19 ========
+2021-01-27 22:33:21.355+0000 INFO  Starting...
+2021-01-27 22:33:23.802+0000 INFO  Initiating metrics...
+Powershell : WARNING: An illegal reflective access operation has occurred
+At C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Cache\neo4j-start.ps1:11 char:1
++ Powershell -NoProfile -NonInteractive -NoLogo `
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: An ill...on has occurred:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+WARNING: Illegal reflective access by org.eclipse.collections.impl.utility.ArrayListIterate (file:/C:/Users/Zeljko/AppD
+ata/Local/Neo4j/Relate/Data/dbmss/dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e/lib/eclipse-collections-9.2.0.jar) to field
+ java.util.ArrayList.elementData
+WARNING: Please consider reporting this to the maintainers of org.eclipse.collections.impl.utility.ArrayListIterate
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-01-27 22:33:27.771+0000 INFO  Sending metrics to CSV file at C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Data\dbmss\dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e\metrics
+2021-01-27 22:33:29.966+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2021-01-27 22:33:30.859+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2021-01-27 22:33:30.862+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2021-01-27 22:33:33.764+0000 INFO  Started.
+2021-01-27 22:33:34.120+0000 INFO  Mounted REST API at: /db/manage
+2021-01-27 22:33:34.265+0000 INFO  Server thread metrics have been registered successfully
+2021-01-27 22:33:35.878+0000 INFO  Remote interface available at http://localhost:7474/
+2021-01-28 15:12:18.677+0000 WARN  You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 8, OpenJDK(TM) 8 or IBM J9.
+2021-01-28 15:12:18.706+0000 INFO  ======== Neo4j 3.5.19 ========
+2021-01-28 15:12:18.715+0000 INFO  Starting...
+2021-01-28 15:12:21.190+0000 INFO  Initiating metrics...
+Powershell : WARNING: An illegal reflective access operation has occurred
+At C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Cache\neo4j-start.ps1:11 char:1
++ Powershell -NoProfile -NonInteractive -NoLogo `
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: An ill...on has occurred:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+WARNING: Illegal reflective access by org.eclipse.collections.impl.utility.ArrayListIterate (file:/C:/Users/Zeljko/AppD
+ata/Local/Neo4j/Relate/Data/dbmss/dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e/lib/eclipse-collections-9.2.0.jar) to field
+ java.util.ArrayList.elementData
+WARNING: Please consider reporting this to the maintainers of org.eclipse.collections.impl.utility.ArrayListIterate
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-01-28 15:12:24.895+0000 INFO  Sending metrics to CSV file at C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Data\dbmss\dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e\metrics
+2021-01-28 15:12:27.106+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2021-01-28 15:12:27.959+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2021-01-28 15:12:27.968+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2021-01-28 15:12:31.324+0000 INFO  Started.
+2021-01-28 15:12:31.864+0000 INFO  Mounted REST API at: /db/manage
+2021-01-28 15:12:32.021+0000 INFO  Server thread metrics have been registered successfully
+2021-01-28 15:12:33.720+0000 INFO  Remote interface available at http://localhost:7474/
+2021-01-28 17:05:53.430+0000 WARN  You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 8, OpenJDK(TM) 8 or IBM J9.
+2021-01-28 17:05:53.464+0000 INFO  ======== Neo4j 3.5.19 ========
+2021-01-28 17:05:53.485+0000 INFO  Starting...
+2021-01-28 17:05:55.774+0000 INFO  Initiating metrics...
+Powershell : WARNING: An illegal reflective access operation has occurred
+At C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Cache\neo4j-start.ps1:11 char:1
++ Powershell -NoProfile -NonInteractive -NoLogo `
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: An ill...on has occurred:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+WARNING: Illegal reflective access by org.eclipse.collections.impl.utility.ArrayListIterate (file:/C:/Users/Zeljko/AppD
+ata/Local/Neo4j/Relate/Data/dbmss/dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e/lib/eclipse-collections-9.2.0.jar) to field
+ java.util.ArrayList.elementData
+WARNING: Please consider reporting this to the maintainers of org.eclipse.collections.impl.utility.ArrayListIterate
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-01-28 17:05:59.498+0000 INFO  Sending metrics to CSV file at C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Data\dbmss\dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e\metrics
+2021-01-28 17:06:01.569+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2021-01-28 17:06:02.814+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2021-01-28 17:06:02.882+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2021-01-28 17:06:05.458+0000 INFO  Started.
+2021-01-28 17:06:05.848+0000 INFO  Mounted REST API at: /db/manage
+2021-01-28 17:06:06.006+0000 INFO  Server thread metrics have been registered successfully
+2021-01-28 17:06:07.956+0000 INFO  Remote interface available at http://localhost:7474/
+2021-01-28 22:08:22.843+0000 WARN  You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 8, OpenJDK(TM) 8 or IBM J9.
+2021-01-28 22:08:22.903+0000 INFO  ======== Neo4j 3.5.19 ========
+2021-01-28 22:08:22.926+0000 INFO  Starting...
+2021-01-28 22:08:26.270+0000 INFO  Initiating metrics...
+Powershell : WARNING: An illegal reflective access operation has occurred
+At C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Cache\neo4j-start.ps1:11 char:1
++ Powershell -NoProfile -NonInteractive -NoLogo `
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: An ill...on has occurred:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+WARNING: Illegal reflective access by org.eclipse.collections.impl.utility.ArrayListIterate (file:/C:/Users/Zeljko/AppD
+ata/Local/Neo4j/Relate/Data/dbmss/dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e/lib/eclipse-collections-9.2.0.jar) to field
+ java.util.ArrayList.elementData
+WARNING: Please consider reporting this to the maintainers of org.eclipse.collections.impl.utility.ArrayListIterate
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-01-28 22:08:29.534+0000 INFO  Sending metrics to CSV file at C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Data\dbmss\dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e\metrics
+2021-01-28 22:08:32.635+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2021-01-28 22:08:32.638+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2021-01-28 22:08:32.652+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2021-01-28 22:08:36.373+0000 INFO  Started.
+2021-01-28 22:08:37.070+0000 INFO  Mounted REST API at: /db/manage
+2021-01-28 22:08:37.411+0000 INFO  Server thread metrics have been registered successfully
+2021-01-28 22:08:39.551+0000 INFO  Remote interface available at http://localhost:7474/
+2021-01-29 15:22:53.862+0000 WARN  You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 8, OpenJDK(TM) 8 or IBM J9.
+2021-01-29 15:22:53.901+0000 INFO  ======== Neo4j 3.5.19 ========
+2021-01-29 15:22:53.923+0000 INFO  Starting...
+2021-01-29 15:22:56.185+0000 INFO  Initiating metrics...
+Powershell : WARNING: An illegal reflective access operation has occurred
+At C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Cache\neo4j-start.ps1:11 char:1
++ Powershell -NoProfile -NonInteractive -NoLogo `
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: An ill...on has occurred:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+WARNING: Illegal reflective access by org.eclipse.collections.impl.utility.ArrayListIterate (file:/C:/Users/Zeljko/AppD
+ata/Local/Neo4j/Relate/Data/dbmss/dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e/lib/eclipse-collections-9.2.0.jar) to field
+ java.util.ArrayList.elementData
+WARNING: Please consider reporting this to the maintainers of org.eclipse.collections.impl.utility.ArrayListIterate
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-01-29 15:22:59.678+0000 INFO  Sending metrics to CSV file at C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Data\dbmss\dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e\metrics
+2021-01-29 15:23:01.924+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2021-01-29 15:23:02.809+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2021-01-29 15:23:03.005+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2021-01-29 15:23:06.802+0000 INFO  Started.
+2021-01-29 15:23:07.317+0000 INFO  Mounted REST API at: /db/manage
+2021-01-29 15:23:07.521+0000 INFO  Server thread metrics have been registered successfully
+2021-01-29 15:23:09.032+0000 INFO  Remote interface available at http://localhost:7474/
+2021-01-30 18:12:39.492+0000 WARN  You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 8, OpenJDK(TM) 8 or IBM J9.
+2021-01-30 18:12:39.523+0000 INFO  ======== Neo4j 3.5.19 ========
+2021-01-30 18:12:39.532+0000 INFO  Starting...
+2021-01-30 18:12:42.291+0000 INFO  Initiating metrics...
+Powershell : WARNING: An illegal reflective access operation has occurred
+At C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Cache\neo4j-start.ps1:11 char:1
++ Powershell -NoProfile -NonInteractive -NoLogo `
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: An ill...on has occurred:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+WARNING: Illegal reflective access by org.eclipse.collections.impl.utility.ArrayListIterate (file:/C:/Users/Zeljko/AppD
+ata/Local/Neo4j/Relate/Data/dbmss/dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e/lib/eclipse-collections-9.2.0.jar) to field
+ java.util.ArrayList.elementData
+WARNING: Please consider reporting this to the maintainers of org.eclipse.collections.impl.utility.ArrayListIterate
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-01-30 18:12:46.587+0000 INFO  Sending metrics to CSV file at C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Data\dbmss\dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e\metrics
+2021-01-30 18:12:48.848+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2021-01-30 18:12:49.651+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2021-01-30 18:12:49.661+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2021-01-30 18:12:53.245+0000 INFO  Started.
+2021-01-30 18:12:53.696+0000 INFO  Mounted REST API at: /db/manage
+2021-01-30 18:12:54.036+0000 INFO  Server thread metrics have been registered successfully
+2021-01-30 18:12:56.163+0000 INFO  Remote interface available at http://localhost:7474/
+2021-01-31 15:40:20.303+0000 WARN  You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 8, OpenJDK(TM) 8 or IBM J9.
+2021-01-31 15:40:20.336+0000 INFO  ======== Neo4j 3.5.19 ========
+2021-01-31 15:40:20.344+0000 INFO  Starting...
+2021-01-31 15:40:23.268+0000 INFO  Initiating metrics...
+Powershell : WARNING: An illegal reflective access operation has occurred
+At C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Cache\neo4j-start.ps1:11 char:1
++ Powershell -NoProfile -NonInteractive -NoLogo `
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: An ill...on has occurred:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+WARNING: Illegal reflective access by org.eclipse.collections.impl.utility.ArrayListIterate (file:/C:/Users/Zeljko/AppD
+ata/Local/Neo4j/Relate/Data/dbmss/dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e/lib/eclipse-collections-9.2.0.jar) to field
+ java.util.ArrayList.elementData
+WARNING: Please consider reporting this to the maintainers of org.eclipse.collections.impl.utility.ArrayListIterate
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-01-31 15:40:26.004+0000 INFO  Sending metrics to CSV file at C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Data\dbmss\dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e\metrics
+2021-01-31 15:40:28.150+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2021-01-31 15:40:29.142+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2021-01-31 15:40:29.147+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2021-01-31 15:40:32.054+0000 INFO  Started.
+2021-01-31 15:40:32.485+0000 INFO  Mounted REST API at: /db/manage
+2021-01-31 15:40:32.668+0000 INFO  Server thread metrics have been registered successfully
+2021-01-31 15:40:34.930+0000 INFO  Remote interface available at http://localhost:7474/
+2021-03-22 13:08:19.166+0000 WARN  You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 8, OpenJDK(TM) 8 or IBM J9.
+2021-03-22 13:08:19.197+0000 INFO  ======== Neo4j 3.5.19 ========
+2021-03-22 13:08:19.217+0000 INFO  Starting...
+2021-03-22 13:08:22.252+0000 INFO  Initiating metrics...
+Powershell : WARNING: An illegal reflective access operation has occurred
+At C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Cache\neo4j-start.ps1:11 char:1
++ Powershell -NoProfile -NonInteractive -NoLogo `
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: An ill...on has occurred:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+WARNING: Illegal reflective access by org.eclipse.collections.impl.utility.ArrayListIterate (file:/C:/Users/Zeljko/AppD
+ata/Local/Neo4j/Relate/Data/dbmss/dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e/lib/eclipse-collections-9.2.0.jar) to field
+ java.util.ArrayList.elementData
+WARNING: Please consider reporting this to the maintainers of org.eclipse.collections.impl.utility.ArrayListIterate
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-03-22 13:08:26.367+0000 INFO  Sending metrics to CSV file at C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Data\dbmss\dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e\metrics
+2021-03-22 13:08:28.861+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2021-03-22 13:08:29.434+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2021-03-22 13:08:29.438+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2021-03-22 13:08:33.772+0000 INFO  Started.
+2021-03-22 13:08:34.227+0000 INFO  Mounted REST API at: /db/manage
+2021-03-22 13:08:34.408+0000 INFO  Server thread metrics have been registered successfully
+2021-03-22 13:08:36.079+0000 INFO  Remote interface available at http://localhost:7474/
+2021-05-28 17:00:03.498+0000 WARN  You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 8, OpenJDK(TM) 8 or IBM J9.
+2021-05-28 17:00:03.541+0000 INFO  ======== Neo4j 3.5.19 ========
+2021-05-28 17:00:03.549+0000 INFO  Starting...
+2021-05-28 17:00:06.410+0000 INFO  Initiating metrics...
+Powershell : WARNING: An illegal reflective access operation has occurred
+At C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Cache\neo4j-start.ps1:11 char:1
++ Powershell -NoProfile -NonInteractive -NoLogo `
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: An ill...on has occurred:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+WARNING: Illegal reflective access by org.eclipse.collections.impl.utility.ArrayListIterate (file:/C:/Users/Zeljko/AppD
+ata/Local/Neo4j/Relate/Data/dbmss/dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e/lib/eclipse-collections-9.2.0.jar) to field
+ java.util.ArrayList.elementData
+WARNING: Please consider reporting this to the maintainers of org.eclipse.collections.impl.utility.ArrayListIterate
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-05-28 17:00:09.962+0000 INFO  Sending metrics to CSV file at C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Data\dbmss\dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e\metrics
+2021-05-28 17:00:12.267+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2021-05-28 17:00:13.076+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2021-05-28 17:00:13.081+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2021-05-28 17:00:15.613+0000 INFO  Started.
+2021-05-28 17:00:16.083+0000 INFO  Mounted REST API at: /db/manage
+2021-05-28 17:00:16.277+0000 INFO  Server thread metrics have been registered successfully
+2021-05-28 17:00:17.868+0000 INFO  Remote interface available at http://localhost:7474/
+2021-05-28 18:50:54.462+0000 WARN  You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 8, OpenJDK(TM) 8 or IBM J9.
+2021-05-28 18:50:54.502+0000 INFO  ======== Neo4j 3.5.19 ========
+2021-05-28 18:50:54.526+0000 INFO  Starting...
+2021-05-28 18:50:56.929+0000 INFO  Initiating metrics...
+Powershell : WARNING: An illegal reflective access operation has occurred
+At C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Cache\neo4j-start.ps1:11 char:1
++ Powershell -NoProfile -NonInteractive -NoLogo `
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: An ill...on has occurred:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+WARNING: Illegal reflective access by org.eclipse.collections.impl.utility.ArrayListIterate (file:/C:/Users/Zeljko/AppD
+ata/Local/Neo4j/Relate/Data/dbmss/dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e/lib/eclipse-collections-9.2.0.jar) to field
+ java.util.ArrayList.elementData
+WARNING: Please consider reporting this to the maintainers of org.eclipse.collections.impl.utility.ArrayListIterate
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-05-28 18:51:00.071+0000 INFO  Sending metrics to CSV file at C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Data\dbmss\dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e\metrics
+2021-05-28 18:51:02.069+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2021-05-28 18:51:03.135+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2021-05-28 18:51:03.141+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2021-05-28 18:51:05.545+0000 INFO  Started.
+2021-05-28 18:51:05.953+0000 INFO  Mounted REST API at: /db/manage
+2021-05-28 18:51:06.283+0000 INFO  Server thread metrics have been registered successfully
+2021-05-28 18:51:08.187+0000 INFO  Remote interface available at http://localhost:7474/
+2021-05-29 20:01:58.079+0000 WARN  You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 8, OpenJDK(TM) 8 or IBM J9.
+2021-05-29 20:01:58.131+0000 INFO  ======== Neo4j 3.5.19 ========
+2021-05-29 20:01:58.151+0000 INFO  Starting...
+2021-05-29 20:02:02.544+0000 INFO  Initiating metrics...
+Powershell : WARNING: An illegal reflective access operation has occurred
+At C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Cache\neo4j-start.ps1:11 char:1
++ Powershell -NoProfile -NonInteractive -NoLogo `
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: An ill...on has occurred:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+WARNING: Illegal reflective access by org.eclipse.collections.impl.utility.ArrayListIterate (file:/C:/Users/Zeljko/AppD
+ata/Local/Neo4j/Relate/Data/dbmss/dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e/lib/eclipse-collections-9.2.0.jar) to field
+ java.util.ArrayList.elementData
+WARNING: Please consider reporting this to the maintainers of org.eclipse.collections.impl.utility.ArrayListIterate
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-05-29 20:02:09.162+0000 INFO  Sending metrics to CSV file at C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Data\dbmss\dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e\metrics
+2021-05-29 20:02:12.229+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2021-05-29 20:02:12.233+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2021-05-29 20:02:12.747+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2021-05-29 20:02:20.268+0000 INFO  Started.
+2021-05-29 20:02:21.143+0000 INFO  Mounted REST API at: /db/manage
+2021-05-29 20:02:21.532+0000 INFO  Server thread metrics have been registered successfully
+2021-05-29 20:02:24.733+0000 INFO  Remote interface available at http://localhost:7474/
+2021-05-30 17:57:41.736+0000 WARN  You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 8, OpenJDK(TM) 8 or IBM J9.
+2021-05-30 17:57:41.771+0000 INFO  ======== Neo4j 3.5.19 ========
+2021-05-30 17:57:41.799+0000 INFO  Starting...
+2021-05-30 17:57:45.256+0000 INFO  Initiating metrics...
+Powershell : WARNING: An illegal reflective access operation has occurred
+At C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Cache\neo4j-start.ps1:11 char:1
++ Powershell -NoProfile -NonInteractive -NoLogo `
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: An ill...on has occurred:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+WARNING: Illegal reflective access by org.eclipse.collections.impl.utility.ArrayListIterate (file:/C:/Users/Zeljko/AppD
+ata/Local/Neo4j/Relate/Data/dbmss/dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e/lib/eclipse-collections-9.2.0.jar) to field
+ java.util.ArrayList.elementData
+WARNING: Please consider reporting this to the maintainers of org.eclipse.collections.impl.utility.ArrayListIterate
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-05-30 17:57:49.154+0000 INFO  Sending metrics to CSV file at C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Data\dbmss\dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e\metrics
+2021-05-30 17:57:51.458+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2021-05-30 17:57:52.267+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2021-05-30 17:57:52.274+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2021-05-30 17:57:55.873+0000 INFO  Started.
+2021-05-30 17:57:56.421+0000 INFO  Mounted REST API at: /db/manage
+2021-05-30 17:57:56.633+0000 INFO  Server thread metrics have been registered successfully
+2021-05-30 17:57:58.611+0000 INFO  Remote interface available at http://localhost:7474/
+2021-05-31 23:18:22.409+0000 WARN  You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 8, OpenJDK(TM) 8 or IBM J9.
+2021-05-31 23:18:22.458+0000 INFO  ======== Neo4j 3.5.19 ========
+2021-05-31 23:18:22.471+0000 INFO  Starting...
+2021-05-31 23:18:26.690+0000 INFO  Initiating metrics...
+Powershell : WARNING: An illegal reflective access operation has occurred
+At C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Cache\neo4j-start.ps1:11 char:1
++ Powershell -NoProfile -NonInteractive -NoLogo `
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: An ill...on has occurred:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+WARNING: Illegal reflective access by org.eclipse.collections.impl.utility.ArrayListIterate (file:/C:/Users/Zeljko/AppD
+ata/Local/Neo4j/Relate/Data/dbmss/dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e/lib/eclipse-collections-9.2.0.jar) to field
+ java.util.ArrayList.elementData
+WARNING: Please consider reporting this to the maintainers of org.eclipse.collections.impl.utility.ArrayListIterate
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-05-31 23:18:31.081+0000 INFO  Sending metrics to CSV file at C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Data\dbmss\dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e\metrics
+2021-05-31 23:18:34.182+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2021-05-31 23:18:34.186+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2021-05-31 23:18:34.419+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2021-05-31 23:18:39.629+0000 INFO  Started.
+2021-05-31 23:18:40.509+0000 INFO  Mounted REST API at: /db/manage
+2021-05-31 23:18:40.726+0000 INFO  Server thread metrics have been registered successfully
+2021-05-31 23:18:43.106+0000 INFO  Remote interface available at http://localhost:7474/
+2022-01-15 19:44:07.086+0000 WARN  You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 8, OpenJDK(TM) 8 or IBM J9.
+2022-01-15 19:44:07.139+0000 INFO  ======== Neo4j 3.5.19 ========
+2022-01-15 19:44:07.151+0000 INFO  Starting...
+2022-01-15 19:44:14.910+0000 INFO  Initiating metrics...
+Powershell : WARNING: An illegal reflective access operation has occurred
+At C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Cache\neo4j-start.ps1:11 char:1
++ Powershell -NoProfile -NonInteractive -NoLogo `
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: An ill...on has occurred:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+WARNING: Illegal reflective access by org.eclipse.collections.impl.utility.ArrayListIterate (file:/C:/Users/Zeljko/AppD
+ata/Local/Neo4j/Relate/Data/dbmss/dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e/lib/eclipse-collections-9.2.0.jar) to field
+ java.util.ArrayList.elementData
+WARNING: Please consider reporting this to the maintainers of org.eclipse.collections.impl.utility.ArrayListIterate
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2022-01-15 19:44:18.337+0000 INFO  Sending metrics to CSV file at C:\Users\Zeljko\AppData\Local\Neo4j\Relate\Data\dbmss\dbms-82ef0c73-fa31-42c1-8b12-59e37219b13e\metrics
+2022-01-15 19:44:21.166+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2022-01-15 19:44:21.394+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2022-01-15 19:44:21.399+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2022-01-15 19:44:25.865+0000 INFO  Started.
+2022-01-15 19:44:28.956+0000 INFO  Mounted REST API at: /db/manage
+2022-01-15 19:44:30.214+0000 INFO  Server thread metrics have been registered successfully
+2022-01-15 19:44:38.720+0000 INFO  Remote interface available at http://localhost:7474/

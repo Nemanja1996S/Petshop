@@ -1,0 +1,19 @@
+{
+  "name": "carfixer beb68429",
+  "description": "",
+  "tags": [
+    "neo4j-desktop-dbms-database-beb68429-a2d7-4377-8dc5-d196ab392f98"
+  ],
+  "id": "82ef0c73-fa31-42c1-8b12-59e37219b13e",
+  "metadata": {
+    "neo4jDesktopStatistics": {
+      "dbId": "database-beb68429-a2d7-4377-8dc5-d196ab392f98",
+      "nodes": 28,
+      "relationships": 32,
+      "labels": 3,
+      "relationshipTypes": 3,
+      "propertyKeys": 8,
+      "upTime": 922788
+    }
+  }
+}
